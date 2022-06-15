@@ -15,17 +15,20 @@ Temas:
 Enlace del repositorio y presentacion.
 [Contenido]()
 
----
-### Dia 2:
+:rocket: Push de actividades: [Actividades](/work_1/README.md)  
+
+## Dia 2:
 
 Temas: 
 - Fundamentos de programacion
 - Algoritmos
+
 Enlace del repositorio y presentacion.
 [Contenido]()
 
----
-### Dia 3:
+:rocket: Push de actividades: [Actividades](/work_2/README.md)
+
+## Dia 3:
 
 Temas: 
 
@@ -35,8 +38,10 @@ Temas:
 Enlace del repositorio y presentacion.
 [Contenido]()
 
----
-### Dia 4:
+:rocket: Push de actividades: [Actividades](/work_3/README.md) 
+
+
+## Dia 4:
 
 Temas: 
 
@@ -46,8 +51,10 @@ Temas:
 Enlace del repositorio y presentacion.
 [Contenido]()
 
----
-### Dia 5:
+:rocket: Push de actividades: [Actividades](/work_4/README.md) 
+
+
+## Dia 5:
 
 Temas: 
 
@@ -57,6 +64,7 @@ Temas:
 Enlace repositorio y presentacion.
 [Contenido]()
 
+:rocket: Push de actividades: [Actividades](/work_5/README.md) 
 
 # Fuentes, referencia y biblografia:
 - Documentacion general de github:
@@ -66,4 +74,3 @@ Enlace repositorio y presentacion.
 - Lenguaje de marcado Markdown:
 [Markdown](https://markdown.es/sintaxis-markdown/)
 
-# rep-main
