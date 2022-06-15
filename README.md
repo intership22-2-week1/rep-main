@@ -3,16 +3,16 @@
 ## Descripcion general:
 ![img](./assets/intro.jpg)
 
-## Contenido de la semana:
+## :bookmark_tabs: Contenido de la semana:
 
-### Dia 1:
+## Dia 1:
 
 Temas:
 - Presentacion general. 
 - Prework (entorno de trabajo)
 - Introduccion a la terminal ( Powershell, Bash)
 
-Enlace del repositorio y presentacion.
+:chart_with_upwards_trend: Enlace presentacion y actividades.
 [Contenido]()
 
 :rocket: Push de actividades: [Actividades](/work_1/README.md)  
@@ -23,7 +23,7 @@ Temas:
 - Fundamentos de programacion
 - Algoritmos
 
-Enlace del repositorio y presentacion.
+:chart_with_upwards_trend: Enlace presentacion y actividades.
 [Contenido]()
 
 :rocket: Push de actividades: [Actividades](/work_2/README.md)
@@ -35,7 +35,7 @@ Temas:
 - Introduccion al Desarrollo Backend
 - Javacript (curso)
 
-Enlace del repositorio y presentacion.
+:chart_with_upwards_trend: Enlace presentacion y actividades.
 [Contenido]()
 
 :rocket: Push de actividades: [Actividades](/work_3/README.md) 
@@ -48,7 +48,7 @@ Temas:
 - Javascript esencial
 - Programación orientada a objetos
 
-Enlace del repositorio y presentacion.
+:chart_with_upwards_trend: Enlace presentacion y actividades.
 [Contenido]()
 
 :rocket: Push de actividades: [Actividades](/work_4/README.md) 
@@ -59,18 +59,18 @@ Enlace del repositorio y presentacion.
 Temas: 
 
 - Reto de la semana.
-* nodejs esencial.
+- *Nodejs esencial.
 
-Enlace repositorio y presentacion.
+:chart_with_upwards_trend: Enlace presentacion y actividades.
 [Contenido]()
 
 :rocket: Push de actividades: [Actividades](/work_5/README.md) 
 
 # Fuentes, referencia y biblografia:
-- Documentacion general de github:
+- :globe_with_meridians: Documentacion general de github:
 [GITHUB](https://docs.github.com/es/get-started)
-- Crear un repositorio en github:
+- :globe_with_meridians: Crear un repositorio en github:
 [create-a-repo](https://docs.github.com/es/get-started/quickstart/create-a-repo)
-- Lenguaje de marcado Markdown:
+- :globe_with_meridians: Lenguaje de marcado Markdown:
 [Markdown](https://markdown.es/sintaxis-markdown/)
 
